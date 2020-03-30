@@ -1,2 +1,1 @@
-# Elka
-Czas studiów.
+Gra Snake.
